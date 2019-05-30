@@ -1,3 +1,4 @@
+//kure Dominykas Rakunas :D
 #include <bits/stdc++.h>
 
 using namespace std;
